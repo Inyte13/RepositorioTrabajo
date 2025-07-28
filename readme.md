@@ -141,12 +141,36 @@ Nivel Intermedio:
 
 ## 9) Links recomendados para capacitación Rol Android *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones  
+Android Developers - Oficial 
 https://developer.android.com/guide
+
+Google Codelabs - Android
 https://codelabs.developers.google.com/?cat=Android
+
+Kotlin Lang - Tutoriales oficiales
 https://kotlinlang.org/docs/home.html
+
+freeCodeCamp - Curso de Android en Youtube 
+https://youtu.be/fis26HvvDII?si=1154Bd8Arp0GEtN3
+
+Curso de Android en Udacity
 https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
 🔹 Con certificación  
+Nivel principiante:
 
+Google: Android Basics in Kotlin
+https://developer.android.com/courses/android-basics-kotlin/course
+
+Coursera - Fundamentos de Android (UNAM)
+https://www.coursera.org/learn/fundamentos?utm_source=chatgpt.com
+
+Nivel intermedio 
+
+Coursera - Meta Android Developer Professional Certificate
+https://www.coursera.org/professional-certificates/meta-android-developer
+
+Udemy - The Complete Android App Developer Bootcamp
+https://www.udemy.com/course/the-complete-android-10-developer-course/
 🔹 Proyectos completos de ejemplo  
 🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
 
