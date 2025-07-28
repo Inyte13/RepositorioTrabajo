@@ -89,8 +89,15 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
   - https://www.oracle.com/mx/education/oracle-next-education/
 
 🔹 Proyectos completos de ejemplo
-      
-🔹 Recomendadas por líderes (Microsoft, AWS, Google)  
+- https://github.com/mauroBaldarrago/Tres-en-raya-en-consola-java
+
+🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
+ - https://www.coursera.org/professional-certificates/microsoft-back-end-developer
+ - https://k21academy.com/microsoft-azure/certification-path/
+ - https://www.coursera.org/professional-certificates/meta-back-end-developer
+ - https://developers.google.com/program?hl=es-419
+ - https://aws.amazon.com/es/training/awsacademy/
+
 ## 8) Rol QA *Cada uno complete lo que le corresponda*
 - Descripción del rol:
 - Habilidades requeridas:   
