@@ -44,13 +44,16 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
 ## 7) Links recomendados para capacitación Rol Backend *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones
   -https://scikit-learn.org/stable/# 
+
+
 🔹 Con certificación  
   - https://www.codecademy.com/learn
   - https://cursa.app/en/free-course/back-end-ecgh?utm_source=chatgpt.com
   - https://www.oracle.com/mx/education/oracle-next-education/
   - https://www.oracle.com/mx/education/oracle-next-education/
 
-🔹 Proyectos completos de ejemplo  
+🔹 Proyectos completos de ejemplo
+      
 🔹 Recomendadas por líderes (Microsoft, AWS, Google)  
 ## 8) Rol QA *Cada uno complete lo que le corresponda*
 - Descripción del rol:
