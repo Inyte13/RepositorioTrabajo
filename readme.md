@@ -132,7 +132,7 @@ Nivel Intermedio:
 🔹 Proyectos completos de ejemplo  
 🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
 
-## 8) Desarrollador Android *Cada uno complete lo que le corresponda*
+## 10) Desarrollador Android *Cada uno complete lo que le corresponda*
  - Descripción del rol: El programador de Android es un profesional especializado en crear, diseñar y  mantener aplicaciones móviles para dispositivos con sistema operativo Android. Su trabajo combina habilidades de programación, diseño de interfaces y lógica de negocio para crear aplicaciones funcionales, atractivas y eficientes que cumplan con las necesidades del usuario y los estándares de Google. Android es un sistema operativo móvil de código abierto basado en el núcleo de Linux (Linux Kernel). Fue diseñado principalmente para dispositivos móviles con pantalla táctil, como teléfonos inteligentes y tabletas.
 - Habilidades requeridas: 
       - Dominio de Kotlin o Java
@@ -158,7 +158,7 @@ Nivel Intermedio:
       - Coroutines
       - RxJava
 
-## 9) Links recomendados para capacitación Rol Android *Cada uno complete lo que le corresponda*
+## 11) Links recomendados para capacitación Rol Android *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones  
 Android Developers - Oficial 
 https://developer.android.com/guide
