@@ -43,7 +43,7 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
 
 ## 7) Links recomendados para capacitación Rol Backend *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones
-  -https://scikit-learn.org/stable/# 
+  - https://scikit-learn.org/stable/# 
 
 
 🔹 Con certificación  
