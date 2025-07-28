@@ -4,6 +4,7 @@
 - Richard Negron rnegron@unsa.edu.pe
 - Valeria Ticona Nina vticonan@unsa.edu.pe (QA)
 - Dayla Kyara Ticona Salgado dticonasa@unsa.edu.pe (QA)
+- Brigitte Karolay Velasquez Puma  bvelasquezp@unsa.edu.pe (QA)
 - Jhovi José Cusi Quicaño jcusiq@unsa.edu.pe (Android)
 - Rodrigo Mamani Muñoz rmamanimu@unsa.edu.pe (Android)
 ## 1) Conceptos Generales para tener en cuenta
@@ -34,7 +35,7 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
   - Lenguajes  
   - Frameworks   
 
-## 5) Links recomendados para capacitación Rol Frontend *Cada uno complete lo que le corresponda*
+## 4,1) Links recomendados para capacitación Rol Frontend *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones:
      - developer.mozilla.org
      - www.w3schools.com
@@ -48,7 +49,7 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
 🔹 Proyectos completos de ejemplo
 🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
 
-## 6) Desarrollador Backend *Cada uno complete lo que le corresponda*
+## 5) Desarrollador Backend *Cada uno complete lo que le corresponda*
 - Descripción del rol: El desarrollador backend se encarga de construir y mantener la lógica interna de una aplicación, gestionando bases de datos, servidores y APIs para garantizar que el sistema funcione correctamente y sea seguro.
 - Habilidades requeridas:
    - Conocimiento de Lenguajes de Programación: Como Java, Python, Ruby, entre otros.
@@ -66,7 +67,7 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
   - Frameworks 
   - Base de datos
 
-## 7) Links recomendados para capacitación Rol Backend *Cada uno complete lo que le corresponda*
+## 5,1) Links recomendados para capacitación Rol Backend *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones
   -https://scikit-learn.org/stable/# 
 🔹 Con certificación  
@@ -76,8 +77,9 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
   - https://www.oracle.com/mx/education/oracle-next-education/
 
 🔹 Proyectos completos de ejemplo  
-🔹 Recomendadas por líderes (Microsoft, AWS, Google)  
-## 8) Rol QA *Cada uno complete lo que le corresponda*
+🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
+
+## 6) Rol QA *Cada uno complete lo que le corresponda*
 - Descripción del rol: En las empresas tecnológicas, asegurar la calidad del software es tan importante como desarrollarlo. Aquí es donde entra el rol de QA (Quality Assurance).
 El QA no solo detecta errores, sino que trabaja desde etapas tempranas del proyecto para prevenir fallos y garantizar que el producto funcione correctamente.
 Este rol aporta valor al desarrollo al enfocarse en la funcionalidad, eficiencia y satisfacción del usuario, además de fortalecer la comunicación con otros equipos como frontend, backend y producto.
@@ -105,7 +107,7 @@ Este rol aporta valor al desarrollo al enfocarse en la funcionalidad, eficiencia
   - Lenguajes  
   - Frameworks 
 
-## 9) Links recomendados para capacitación Rol QA *Cada uno complete lo que le corresponda*
+## 6.1) Links recomendados para capacitación Rol QA *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones  
 
 - Testing Al Grano – UPEX Galaxy (YouTube)
@@ -132,7 +134,56 @@ Nivel Intermedio:
 🔹 Proyectos completos de ejemplo  
 🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
 
-## 10) Desarrollador Android *Cada uno complete lo que le corresponda*
+## 6.2) Ejemplo práctico del rol de QA  
+**Autora:** Brigitte Karolay Velasquez Puma  
+
+### Caso hipotético: QA en una aplicación de banca móvil
+
+Para comprender mejor el rol del Quality Assurance (QA), presentaremos un caso aplicado en una **app de banca móvil**, un entorno que exige seguridad, precisión y una experiencia fluida para el usuario.
+
+#### Acciones concretas del QA en este contexto:
+
+- **Revisión de funcionalidades críticas**: Verificar que procesos clave como el inicio de sesión, la consulta de saldo y las transferencias bancarias funcionen correctamente.
+- **Pruebas en diferentes dispositivos**: Ejecutar pruebas en distintos sistemas operativos (Android/iOS) y resoluciones para asegurar la compatibilidad del producto.
+- **Automatización de pruebas recurrentes**: Utilizar herramientas como **Selenium** o **Postman** para validar funcionalidades repetitivas o API del backend.
+- **Detección y documentación de errores**: Reportar fallos en herramientas como **Jira**, especificando pasos para reproducirlos y su prioridad.
+- **Pruebas de regresión**: Validar que los errores corregidos no generen nuevos problemas en otras partes del sistema.
+
+### Impacto del QA en el resultado final
+
+Gracias al trabajo del QA:
+- Se entrega una aplicación **estable, segura y funcional**.
+- Se previenen errores antes de llegar al usuario final, lo cual **reduce costos** y evita daños a la reputación del producto.
+- Se garantiza la **satisfacción del usuario**, uno de los pilares mencionados en la descripción del rol de QA por nuestro equipo.
+
+## 6.3) Conclusiones generales sobre el rol de QA
+
+El rol de QA, como vimos a lo largo del trabajo, **no solo busca encontrar errores**, sino también **prevenirlos**, aportar calidad desde las primeras fases y colaborar activamente con los equipos de desarrollo.
+
+### Conclusiones principales:
+
+- **El QA aporta valor desde el análisis de requisitos hasta el producto final**, validando que se cumplan los estándares de calidad.
+- **Trabaja en constante comunicación con frontend, backend, UX/UI y producto**, como se explicó anteriormente.
+- **Requiere habilidades técnicas y blandas**, como pensamiento crítico, precisión, conocimiento de herramientas y buena comunicación.
+- **Es fundamental en entornos ágiles**, donde se requiere entregar versiones funcionales constantemente.
+
+>  *"Un producto sin calidad es un producto que no está terminado."*
+## Apoyo visual – Ejemplo práctico y proceso QA
+
+| QA validando banca móvil | Ciclo básico del proceso QA |
+|--------------------------|-----------------------------|
+| ![QA en banca móvil](https://i.imgur.com/kkHgFeV.png) | ![Proceso QA Testing](https://i.imgur.com/VHrbNsd.png) |
+
+---
+
+## 🔗 Referencias internas
+
+- Ver sección **Funciones del QA** en el punto *8.2*: Donde se detallan las actividades como revisión, pruebas, reporte de errores y validación final.
+- Ver sección **Herramientas**: Relación directa con las mencionadas (Selenium, Postman, Jira).
+- Ver sección **Relación con otros roles**: QA colabora con Frontend (interfaz), Backend (API), y Android (dispositivos móviles).
+
+
+## 7) Desarrollador Android *Cada uno complete lo que le corresponda*
  - Descripción del rol: El programador de Android es un profesional especializado en crear, diseñar y  mantener aplicaciones móviles para dispositivos con sistema operativo Android. Su trabajo combina habilidades de programación, diseño de interfaces y lógica de negocio para crear aplicaciones funcionales, atractivas y eficientes que cumplan con las necesidades del usuario y los estándares de Google. Android es un sistema operativo móvil de código abierto basado en el núcleo de Linux (Linux Kernel). Fue diseñado principalmente para dispositivos móviles con pantalla táctil, como teléfonos inteligentes y tabletas.
 - Habilidades requeridas: 
       - Dominio de Kotlin o Java
@@ -141,7 +192,60 @@ Nivel Intermedio:
       - Uso de herramientas de JUnit, Espresso.
       - Conocimiento de patrones de arquitectura como MVVM, MVP o Clean Architecture.
       - Experiencia en publicación y mantenimiento de apps en Google Play Store.
-      - Conocimientos de integración con APIs REST y manejo de JSON.
+      - Conocimientos de integración con APIs REST y manejo de JSON.8) Rol QA *Cada uno complete lo que le corresponda*
+- Descripción del rol: En las empresas tecnológicas, asegurar la calidad del software es tan importante como desarrollarlo. Aquí es donde entra el rol de QA (Quality Assurance).
+El QA no solo detecta errores, sino que trabaja desde etapas tempranas del proyecto para prevenir fallos y garantizar que el producto funcione correctamente.
+Este rol aporta valor al desarrollo al enfocarse en la funcionalidad, eficiencia y satisfacción del usuario, además de fortalecer la comunicación con otros equipos como frontend, backend y producto.
+- Funciones:
+     - Revisión: El QA analiza los requerimientos del sistema para detectar errores o ambigüedades desde el inicio del proyecto.
+     - Pruebas: Diseña y ejecuta pruebas para asegurarse de que cada función del software opere correctamente.
+     - Detección de errores: Identifica fallos en el sistema, los documenta y los comunica al equipo de desarrollo para que sean corregidos.
+     - Validación final: Comprueba que los errores corregidos no hayan generado nuevos problemas y que el sistema esté listo para ser lanzado.
+- Habilidades requeridas:
+     - Habilidades Técnicas:
+          - Conocimiento de metodologías de testing: Test cases, planes de prueba y estrategias de testing (manual y automatizado).
+          - Fundamentos de software: Comprender los conceptos básicos del ciclo de vida del software (SDLC), tipos de testing.
+          - Automatización de pruebas: Selenium, Cypress, JMeter, Appium, Postman, o similares para automatizar pruebas funcionales, de API y de carga.
+          - Manejo de herramientas de gestión: Jira, TestRail, Zephyr, Quality Center para reportes de bugs, gestión de incidencias y seguimiento de pruebas.
+          - Conocimientos de al menos un scripting/código: Python, Java, JavaScript, etc.
+     - Habilidades Blandas:
+          - Pensamiento analítico y crítico
+          - Detallismo y precisión
+          - Comunicación efectiva
+- Relación con roles de Frontend, Backend, Desarrollador Android:
+     - Frontend: QA prueba la interfaz que ve el usuario final: botones, formularios, menús, navegación, etc.
+     - Backend: Devuelva respuestas correctas. Tenga buen manejo de errores. (Pruebas de API).
+     - Android: Funcione en distintos dispositivos Android, resoluciones y versiones del sistema operativo. No tenga fallas al instalarse, abrirse o cerrarse.
+- Stack tecnológico:  
+  - Lenguajes  
+  - Frameworks 
+
+## 8) Links recomendados para capacitación Rol QA *Cada uno complete lo que le corresponda*
+🔹 Sin certificaciones  
+
+- Testing Al Grano – UPEX Galaxy (YouTube)
+    > https://www.youtube.com/watch?v=Fv5ROH9D14o
+
+🔹 Con certificación  
+
+Nivel Principiante:
+- Testea y Conecta: 20 dias de QA en Apps Descentralizadas.(Certificado de participación + POAP)
+    > https://academiaqa.com/courses/20-dias-qa/ 
+- Quality Assurance (QA) - Techniques and Methodologies
+    > https://alison.com/course/quality-assurance-qa-techniques-and-methodologies (Certificación de pago)
+- Curso de Tester de Software
+    > https://edutin.com/curso-de-tester (Certificación de pago)
+
+Nivel Intermedio:
+- Best Quality Assurance Courses
+    > https://alison.com/tag/quality-assurance (Certificación de pago)
+- QA Process Optimization: Agile & Automated Testing
+    > https://www.coursera.org/learn/qa-process-optimization-agile-automated-testing (Certificación de pago)
+- Free Quality Assurance Bootcamp
+    > https://www.codingtemple.com/free-courses/quality-assurance/
+
+🔹 Proyectos completos de ejemplo  
+🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
 - Relación con roles de Frontend, Backend, QA:
       - Frontend en Android: Colabora para mantener la consistencia en  la experiencia de usuario.
       - Backend: Colabora para crear servicios, reportar errores y validar endpoints.
@@ -158,7 +262,7 @@ Nivel Intermedio:
       - Coroutines
       - RxJava
 
-## 11) Links recomendados para capacitación Rol Android *Cada uno complete lo que le corresponda*
+## 9) Links recomendados para capacitación Rol Android *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones  
 Android Developers - Oficial 
 https://developer.android.com/guide
@@ -193,7 +297,7 @@ https://www.udemy.com/course/the-complete-android-10-developer-course/
 🔹 Proyectos completos de ejemplo  
 🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
 
-## 12) Pasos a Desarrollar  
+## 10) Pasos a Desarrollar  
 1. Luis García crea repositorio remoto: `RepositorioTrabajo`  
 2. Compartir el repositorio con compañeros:  
    - Ir a Settings ⚙️ > Collaborators  
