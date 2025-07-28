@@ -78,7 +78,6 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
   - https://www.oracle.com/mx/education/oracle-next-education/
   - https://www.oracle.com/mx/education/oracle-next-education/
 
-<<<<<<< HEAD
 🔹 Proyectos completos de ejemplo
       
 🔹 Recomendadas por líderes (Microsoft, AWS, Google)  
