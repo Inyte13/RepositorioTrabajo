@@ -3,6 +3,7 @@
 - Luis García lgarciada@unsa.edu.pe (Frontend)
 - Richard Negron rnegron@unsa.edu.pe (Backend)
 - Davis Saúl Huayhua León dhuayhuale@unsa.edu.pe (Backend)
+- Mauro Daniel Baldarrago Flores mbaldarrago@unsa.edu.pe (Backend)
 - Valeria Ticona Nina vticonan@unsa.edu.pe (QA)
 - Dayla Kyara Ticona Salgado dticonasa@unsa.edu.pe (QA)
 - Brigitte Karolay Velasquez Puma  bvelasquezp@unsa.edu.pe (QA)
@@ -64,14 +65,22 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
    - QA: Estos dos roles mantienen  una estrecha comunicación para que el producto realizado satisfaga las necesidades del usuario. Probar la seguridad, bases de datos y el rendimiento, es fundamental.
    - Desarrollador Android: Trabajan en conjunto para crear aplicaciones funcionales. El backend se encarga de la lógica del servidor, bases de datos y APIs, mientras que el desarrollador Android diseña la interfaz y consume esos servicios
 - Stack tecnológico:  
-  - Lenguajes  
-  - Frameworks 
-  - Base de datos
-
+  - Lenguajes:
+     - Python: Un lenguaje versátil, fácil de aprender y muy usado en el backend por su sintaxis clara. Destaca en desarrollo web con frameworks como Django y Flask. 
+	- JavaScript (Node.js):  Aunque originalmente fue creado para el frontend, con Node.js puede usarse también en el backend. Permite usar el mismo lenguaje tanto en el cliente como en el servidor.
+	- Java: Un lenguaje robusto y muy utilizado en grandes sistemas empresariales. Su sintaxis es más estricta, pero es excelente para aplicaciones seguras y escalables.
+	- Ruby: Lenguaje elegante y legible, conocido por su enfoque en la productividad del desarrollador. Se usa principalmente con el framework Ruby on Rails, que permite desarrollar aplicaciones web de forma muy rápida.
+  - Frameworks:
+    - Django: Es un framework robusto de alto nivel para Python. Incluye muchas funcionalidades listas para usar, como panel de administración, ORM (Object Relational Mapping), validación de formularios y protección contra ataques comunes.
+	- Express: Es un framework minimalista y flexible para Node.js. Ofrece una estructura básica para desarrollar aplicaciones web y APIs REST, permitiendo al desarrollador configurar y personalizar a su gusto.
+	- Spring Boot: Es una extensión del framework Spring, diseñado para simplificar el desarrollo de aplicaciones Java. Facilita la creación de servicios web y microservicios, con una arquitectura modular, seguridad integrada y soporte para bases de datos relacionales.
+	- Ruby on Rails: Es un framework completo para Ruby, centrado en la productividad y simplicidad. Usa el principio de “convención sobre configuración”, lo que permite desarrollar aplicaciones web rápidamente sin necesidad de escribir código repetitivo. 
+  - Base de datos:
+     - SQL (Relacionales): Las bases de datos relacionales organizan la información en tablas conectadas entre sí. Se accede a los datos mediante el lenguaje SQL (Structured Query Language) usando comandos como SELECT, INSERT, UPDATE o DELETE. Ejemplos populares son MySQL, PostgreSQL y SQLite. Son ideales cuando se necesita integridad de datos y relaciones estructuradas.
+	- NoSQL (No relacionales):  Las bases de datos NoSQL utilizan modelos más flexibles como documentos, grafos o pares clave-valor, y están optimizadas para escalar horizontalmente. Son recomendadas para manejar grandes volúmenes de datos no estructurados o cambiantes. MongoDB es el ejemplo más conocido y usa documentos en formato JSON, mientras que Redis se especializa en almacenamiento rápido en memoria.
 ## 5,1) Links recomendados para capacitación Rol Backend 
 🔹 Sin certificaciones
   - https://scikit-learn.org/stable/# 
-
 
 🔹 Con certificación  
   - https://www.codecademy.com/learn
