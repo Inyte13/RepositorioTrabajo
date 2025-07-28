@@ -1,6 +1,6 @@
      # Estudio de Roles Básicos en Desarrollo Web y Móvil
 ## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio
-- Luis García lgarciada@unsa.edu.pe
+- Luis García lgarciada@unsa.edu.pe (Frontend)
 - Richard Negron rnegron@unsa.edu.pe (Backend)
 - Davis Saúl Huayhua León dhuayhuale@unsa.edu.pe (Backend)
 - Valeria Ticona Nina vticonan@unsa.edu.pe (QA)
