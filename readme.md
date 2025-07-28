@@ -170,12 +170,6 @@ El rol de QA, como vimos a lo largo del trabajo, **no solo busca encontrar error
 >  *"Un producto sin calidad es un producto que no está terminado."*
 ## Apoyo visual – Ejemplo práctico y proceso QA
 
-| QA validando banca móvil | Ciclo básico del proceso QA |
-|--------------------------|-----------------------------|
-| | |
-
----
-
 ## 🔗 Referencias internas
 
 - Ver sección **Funciones del QA**: Donde se detallan las actividades como revisión, pruebas, reporte de errores y validación final.
