@@ -172,13 +172,13 @@ El rol de QA, como vimos a lo largo del trabajo, **no solo busca encontrar error
 
 | QA validando banca móvil | Ciclo básico del proceso QA |
 |--------------------------|-----------------------------|
-| ![QA en banca móvil](https://i.imgur.com/kkHgFeV.png) | ![Proceso QA Testing](https://i.imgur.com/VHrbNsd.png) |
+| | |
 
 ---
 
 ## 🔗 Referencias internas
 
-- Ver sección **Funciones del QA** en el punto *8.2*: Donde se detallan las actividades como revisión, pruebas, reporte de errores y validación final.
+- Ver sección **Funciones del QA**: Donde se detallan las actividades como revisión, pruebas, reporte de errores y validación final.
 - Ver sección **Herramientas**: Relación directa con las mencionadas (Selenium, Postman, Jira).
 - Ver sección **Relación con otros roles**: QA colabora con Frontend (interfaz), Backend (API), y Android (dispositivos móviles).
 
