@@ -133,12 +133,30 @@ Nivel Intermedio:
 🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
 
 ## 8) Desarrollador Android *Cada uno complete lo que le corresponda*
-- Descripción del rol:
-- Habilidades requeridas:   
-- Relación con roles de Frontend, Backend, QA:   
+ - Descripción del rol: El programador de Android es un profesional especializado en crear, diseñar y  mantener aplicaciones móviles para dispositivos con sistema operativo Android. Su trabajo combina habilidades de programación, diseño de interfaces y lógica de negocio para crear aplicaciones funcionales, atractivas y eficientes que cumplan con las necesidades del usuario y los estándares de Google. Android es un sistema operativo móvil de código abierto basado en el núcleo de Linux (Linux Kernel). Fue diseñado principalmente para dispositivos móviles con pantalla táctil, como teléfonos inteligentes y tabletas.
+- Habilidades requeridas: 
+      - Dominio de Kotlin o Java
+      - Experiencia con Android Jetpack
+      - Manejo de herramientas de control de versiones (Git).
+      - Uso de herramientas de JUnit, Espresso.
+      - Conocimiento de patrones de arquitectura como MVVM, MVP o Clean Architecture.
+      - Experiencia en publicación y mantenimiento de apps en Google Play Store.
+      - Conocimientos de integración con APIs REST y manejo de JSON.
+- Relación con roles de Frontend, Backend, QA:
+      - Frontend en Android: Colabora para mantener la consistencia en  la experiencia de usuario.
+      - Backend: Colabora para crear servicios, reportar errores y validar endpoints.
+      - QA (Quality Assurance): Trabaja en conjunto para garantizar calidad mediante pruebas manuales y automatizadas asi como la corrección de bugs.
 - Stack tecnológico:  
-  - Lenguajes  
+  - Lenguajes: 
+      - Kotlin 
+      - Java
   - Frameworks 
+      - Android SDK
+      - Jetpack Compose
+      - Firebase
+      - Retrofit
+      - Coroutines
+      - RxJava
 
 ## 9) Links recomendados para capacitación Rol Android *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones  
