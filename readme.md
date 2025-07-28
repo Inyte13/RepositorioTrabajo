@@ -35,7 +35,7 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
   - Lenguajes  
   - Frameworks   
 
-## 4,1) Links recomendados para capacitación Rol Frontend *Cada uno complete lo que le corresponda*
+## 4.1) Links recomendados para capacitación Rol Frontend *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones:
      - developer.mozilla.org
      - www.w3schools.com
@@ -49,7 +49,7 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
 🔹 Proyectos completos de ejemplo
 🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
 
-## 5) Desarrollador Backend *Cada uno complete lo que le corresponda*
+## 5) Desarrollador Backend 
 - Descripción del rol: El desarrollador backend se encarga de construir y mantener la lógica interna de una aplicación, gestionando bases de datos, servidores y APIs para garantizar que el sistema funcione correctamente y sea seguro.
 - Habilidades requeridas:
    - Conocimiento de Lenguajes de Programación: Como Java, Python, Ruby, entre otros.
@@ -67,7 +67,7 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
   - Frameworks 
   - Base de datos
 
-## 5,1) Links recomendados para capacitación Rol Backend *Cada uno complete lo que le corresponda*
+## 5,1) Links recomendados para capacitación Rol Backend 
 🔹 Sin certificaciones
   -https://scikit-learn.org/stable/# 
 🔹 Con certificación  
@@ -79,7 +79,7 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
 🔹 Proyectos completos de ejemplo  
 🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
 
-## 6) Rol QA *Cada uno complete lo que le corresponda*
+## 6) Rol QA
 - Descripción del rol: En las empresas tecnológicas, asegurar la calidad del software es tan importante como desarrollarlo. Aquí es donde entra el rol de QA (Quality Assurance).
 El QA no solo detecta errores, sino que trabaja desde etapas tempranas del proyecto para prevenir fallos y garantizar que el producto funcione correctamente.
 Este rol aporta valor al desarrollo al enfocarse en la funcionalidad, eficiencia y satisfacción del usuario, además de fortalecer la comunicación con otros equipos como frontend, backend y producto.
@@ -107,7 +107,7 @@ Este rol aporta valor al desarrollo al enfocarse en la funcionalidad, eficiencia
   - Lenguajes  
   - Frameworks 
 
-## 6.1) Links recomendados para capacitación Rol QA *Cada uno complete lo que le corresponda*
+## 6.1) Links recomendados para capacitación Rol QA 
 🔹 Sin certificaciones  
 
 - Testing Al Grano – UPEX Galaxy (YouTube)
